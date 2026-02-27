@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AlertoZAP: Yandex Metrica Traffic Alerting
 
 ## Описание
@@ -59,3 +60,6 @@
 - По всем вопросам писать в Telegram: [@mirbi_a](https://t.me/mirbi_a)
 
 
+=======
+# AlertoZAP
+>>>>>>> cb367adb18b907d8332cd36fddddd8186f07dd46
